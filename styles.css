@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 100px;
+    color: blue;
+}
+
+#randomNumber {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
